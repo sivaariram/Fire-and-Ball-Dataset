@@ -3,7 +3,7 @@ The data-set’s original images were captured in theUniversity of Oulu warehous
 
 **Author: [Siva Ariram](https://www.oulu.fi/university/researcher/siva-ariram), siva.ariram@oulu.fi**
 
-**Affiliation: [Robotic Group](https://www.oulu.fi/bisg/), University of Oulu Finland**
+**Affiliation: [Robotics Group](https://www.oulu.fi/bisg/), University of Oulu Finland**
 ## Citing
 
 The Datasets used in this project are described in the paper: Link will be updated soon
