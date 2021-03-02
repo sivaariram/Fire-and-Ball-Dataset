@@ -4,7 +4,8 @@ The data-set’s original images were captured in theUniversity of Oulu warehous
 **Affiliation: [Biomimetics and Intelligent Systems Group](https://www.oulu.fi/bisg/), University of Oulu Finland**
 ## Citing
 
-The Datasets used in this project are described in the paper: Link will be updated soon
+The Datasets used in this project are described in the paper: https://ieeexplore.ieee.org/document/9303034
 
 If you are using FSB dataset, please add the following citation to your publication:
-Link will be updated soon
+
+R. Raveendran, S. Ariram, A. Tikanmäki and J. Röning, "Development of task-oriented ROS-based Autonomous UGV with 3D Object Detection," 2020 IEEE International Conference on Real-time Computing and Robotics (RCAR), Asahikawa, Japan, 2020, pp. 427-432, doi: 10.1109/RCAR49640.2020.9303034.
